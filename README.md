@@ -1,6 +1,6 @@
 # PWN Formation — Binary Exploitation & CTFs
 
-Ce dossier contient une présentation HTML pour la formation au Binary Exploitation et aux CTFs.
+Ce dossier contient une présentation HTML pour la formation au Binary Exploitation (pwn) et aux CTFs.
 
 ## Contenu
 - `Binary_Exploitation_formation.html` — le diaporama complet (thème sombre), avec:
